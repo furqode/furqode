@@ -4,7 +4,6 @@
 - 🔭 I'm currently working on ....
 - 🧑🏻‍🏫 I'm currently learning everything related to web development and UI/UX.
 - 🥅 2023 Goal: Contribute to open source projects.
-- 🎮 I love to play fps.
 
 ### Connect with me:
 
