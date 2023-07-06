@@ -20,7 +20,4 @@
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCjyBO2sV0WwMm3HybacViTw#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCjyBO2sV0WwMm3HybacViTw#gh-dark-mode-only)
 
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]()
 
